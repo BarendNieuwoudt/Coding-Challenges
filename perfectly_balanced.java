@@ -1,3 +1,5 @@
+import java.util.ArrayList;
+
 public class perfectly_balanced {
 
 	// Given a string containing only the characters x and y, find whether there
